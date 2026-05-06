@@ -6,5 +6,5 @@
 
 ## Скриншоты
 
-![Скриншот 1](assets\black-theme.png)
-![Скриншот 2](assets\white-theme.png)
+![Скриншот 1](assets/black-theme.png)
+![Скриншот 2](assets/white-theme.png)
